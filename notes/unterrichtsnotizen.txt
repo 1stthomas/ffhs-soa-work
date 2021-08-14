@@ -1,0 +1,26 @@
+
+Semesterarbeit:
+- es wird nichts progammiert
+- wissenschaftliches Papier
+- am Besten 5 Kapitel für jede PVA
+- z.B. am Montag vor der PVA abgeben
+- darf Theorieteil enthalten (für Semesterprüfung)
+- Theorieteil wird nicht bewertet
+- für PVA1 Abgabe bei einer Refactoring Semesterarbeit mehrere Services beschreiben, danach nur noch einen Service behandeln
+
+
+
+Semesterprüfung:
+- Es darf ausser der Projektarbeit nichts verwendet werden
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+
+Mögliches Thema:
+concrete5 Newsletter Package von Mesch
+
+
+Benefits:
+- Für Einteilung werden User-Gruppen verwendet, was eine Zweckentfremdung darstellt
+- Die Hosting-Servers werden unnötig alle 30 Minuten mit einem Cronjob belastet (NL-Versand, fals welche vorhanden sind)
+- So können z.B. Email-Server-Umstellungen zentral gehandhabt werden, statt alle Hostings einzeln aufgerufen werden müssen
+- 
+
+
+
+
+
+
+
+
+
+
